@@ -9,7 +9,7 @@
                     </div>
                 </div>
                 <div class="card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate, ex ac venenatis mollis, diam nibh finibus leo</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate, ex ac venenatis mollisss</p>
                     <form>
                         <div class="form-group">
                             <label class="form-label" for="email">Email address:</label>
